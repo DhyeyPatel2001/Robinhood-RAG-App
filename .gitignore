@@ -3,3 +3,5 @@ data
 indexes
 venv
 __pycache__
+*.xlsx
+*.json
