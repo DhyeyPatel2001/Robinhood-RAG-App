@@ -1,0 +1,32 @@
+# Web Scraping
+crawl4ai>=0.3.0
+playwright>=1.40.0
+
+# Data Processing
+langchain>=0.1.0
+langchain-text-splitters>=0.0.1
+langchain-community>=0.0.10
+
+# Vector Store
+chromadb>=0.4.0
+sentence-transformers>=2.2.0
+
+# Keyword Search
+rank-bm25>=0.2.2
+nltk>=3.8.0
+
+# LLM
+openai>=1.12.0
+
+# UI
+streamlit>=1.30.0
+
+# Telemetry
+arize-phoenix>=3.0.0
+opentelemetry-api>=1.22.0
+opentelemetry-sdk>=1.22.0
+openinference-instrumentation-openai>=0.1.0
+
+# Utils
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
